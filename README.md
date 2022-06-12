@@ -26,7 +26,8 @@
    *Travel Data
   
 *     ERD
-(screenshot)
+![ERD Diagram - Initial Build](https://user-images.githubusercontent.com/98061420/173248159-a223498c-5451-4b34-995b-0ccc56a7d7cb.PNG)
+
 ## Analysis and Machine Learning 
 
 (loading...)
