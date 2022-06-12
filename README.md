@@ -22,8 +22,10 @@
   * Covid data
 * https://www.transtats.bts.gov
   * Passangers data
-
-## ERD
+* https://www.tsa.gov/coronavirus/passenger-throughput
+   *Travel Data
+  
+*     ERD
 (screenshot)
 ## Analysis and Machine Learning 
 
