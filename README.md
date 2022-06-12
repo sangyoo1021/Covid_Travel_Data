@@ -14,7 +14,7 @@
 ## Team members and roles
 * Eno Vaqari - Triangle Role
 * - Circle Role
-* - Square Role
+* Sang Yoo - Square Role
 
 ### Data Sources
 
