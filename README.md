@@ -24,7 +24,10 @@
   * Passangers data
 
 ## ERD
-(screenshot)
+
+![ERD Diagram - Initial Build](https://user-images.githubusercontent.com/98061420/173245774-e820c663-f05b-4560-b41b-177df9efc914.PNG)
+
+
 ## Analysis and Machine Learning 
 
 (loading...)
