@@ -13,7 +13,7 @@
 
 ## Team members and roles
 * Eno Vaqari - Triangle Role
-* - Circle Role
+* Nick Emery Circle Role
 * Sang Yoo - Square Role
 
 ### Data Sources
