@@ -8,7 +8,7 @@ Given the current pandemic ongoing in the world, the team decided to analyze the
 
 ## Links
 * [Dashboard](link here)
-* [Presentation](link here)
+* [Presentation](https://docs.google.com/presentation/d/1BG5ym9iFnZlSlqdPJViYNIFEAI0LnRnIBuntDVDaSYQ/edit?usp=sharing)
 
 ## Communication protocols
 * Throughout this project, the team used Slack app regulary to communicate with each other.
