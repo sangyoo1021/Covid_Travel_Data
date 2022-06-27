@@ -32,6 +32,9 @@ Given the current pandemic ongoing in the world, the team decided to analyze the
 *     ERD
 ![ERD Diagram - Initial Build](https://user-images.githubusercontent.com/98061420/173248159-a223498c-5451-4b34-995b-0ccc56a7d7cb.PNG)
 
+![Joined MasterTable](https://user-images.githubusercontent.com/98061420/175851507-c77dd26c-dd61-4966-8664-ba672740d746.PNG)
+
+
 ## Analysis and Machine Learning 
 
 The team will use Linear Regression and Random Forest Classifier models to analyze the data and store information specific to the dataset. The models will be used to predict future trends of air travel given the historical values of the past three years, by feeding data related to the correlation of Covid-19 cases, vaccines, and air travel. The team decided to use Linear Regression because it is efficient to train and easy to implement and interpret. Additionally, the team chose Random Forest Classifier becuase they can handle thousands of input variable without variable deletion and run efficiently on large datasets. 
