@@ -7,7 +7,7 @@
 Given the current pandemic ongoing in the world, the team decided to analyze the international airline travel and its correlation with Covid-19. The team will test data points and correlation between Covid-19 cases, vaccine, and number of passengers traveling internationally via airplanes. Additionally, the team is hoping to find a correlation between vaccines and post-pandemic traveling. The team will create a model, train the model, and create predictions for future trends by using the historical values of traveling for the past three years.
 
 ## Links
-* [Dashboard](link here)
+* [Dashboard](https://public.tableau.com/shared/2KPGW6QFB?:display_count=n&:origin=viz_share_link)
 * [Presentation](https://docs.google.com/presentation/d/1BG5ym9iFnZlSlqdPJViYNIFEAI0LnRnIBuntDVDaSYQ/edit?usp=sharing)
 
 ## Communication protocols
@@ -27,7 +27,7 @@ Given the current pandemic ongoing in the world, the team decided to analyze the
 * https://www.transtats.bts.gov
   * Passangers data
 * https://www.tsa.gov/coronavirus/passenger-throughput
-   *Travel Data
+  * Travel Data
   
 *     ERD
 ![ERD Diagram - Initial Build](https://user-images.githubusercontent.com/98061420/173248159-a223498c-5451-4b34-995b-0ccc56a7d7cb.PNG)
