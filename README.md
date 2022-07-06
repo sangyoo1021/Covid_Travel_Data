@@ -4,7 +4,7 @@
 
 
 ## Project Overview
-Given the current pandemic ongoing in the world, the team decided to analyze the international airline travel and its correlation with Covid-19. The team will test data points and correlation between Covid-19 cases, vaccine, and number of passengers traveling internationally via airplanes. Additionally, the team is hoping to find a correlation between vaccines and post-pandemic traveling. The team will create a model, train the model, and create predictions for future trends by using the historical values of traveling for the past three years.
+Given the current pandemic ongoing in the world, the team decided to analyze the domestic airline travel and its correlation with Covid-19. The team will test data points and correlation between Covid-19 cases, vaccine, and number of passengers traveling domestically via airplanes. Additionally, the team is hoping to find a correlation between vaccines and post-pandemic traveling. The team will create a model, train the model, and create predictions for future trends by using the historical values of traveling for the past three years.
 
 ## Links
 * [Dashboard](https://public.tableau.com/app/profile/nick.emery/viz/Covid_TravelData/TotalCases?publish=yes)
