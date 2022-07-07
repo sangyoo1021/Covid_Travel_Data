@@ -42,8 +42,8 @@ The team used test_train_split to split the data and stored 1.data in X and 2.ta
 Next steps involved creation of StandardScaler, instances_Scaled the data and fitted the model. Once the model generated predictions, the team created data frame with both prediction and actual scores for both models chosen. 
 Linear Regression model generated a R squared value of 61% and the Random Forest Classifier generated a R squared value of 86%, resulting in the Random Forest Classifier as the most accurate and better prediction model.
 
-![https://github.com/sangyoo1021/Covid_Travel_Data/blob/main/PNGs/Lr.png]
-![https://github.com/sangyoo1021/Covid_Travel_Data/blob/main/PNGs/Screen%20Shot%202022-07-03%20at%2010.45.45%20PM.png]
+![Linear Regression](https://github.com/sangyoo1021/Covid_Travel_Data/blob/main/PNGs/Lr.png)
+![Random Forest](https://github.com/sangyoo1021/Covid_Travel_Data/blob/main/PNGs/Screen%20Shot%202022-07-03%20at%2010.45.45%20PM.png)
 
 The model could be further enhanced by including ticket pricing, travel limitations, and other external factors.
 
