@@ -37,4 +37,13 @@ Given the current pandemic ongoing in the world, the team decided to analyze the
 
 ## Analysis and Machine Learning 
 
-The team will use Linear Regression and Random Forest Classifier models to analyze the data and store information specific to the dataset. The models will be used to predict future trends of air travel given the historical values of the past three years, by feeding data related to the correlation of Covid-19 cases, vaccines, and air travel. The team decided to use Linear Regression because it is efficient to train and easy to implement and interpret. Additionally, the team chose Random Forest Classifier because they can handle thousands of input variable without variable deletion and run efficiently on large datasets. 
+The team retrieved data for US air travelers and Covid 19 cases, and replaced all the Null values of Covid 19 cases prior to late 2019 with 0. Once the data was ready, used Linear regression and Random Forest models to analyze the data and store information specific to the dataset. The models were used to predict the future trends of air travel using historical values of the past three years, considering the effects of Covid-19 cases and vaccines. The team selected 2 different models to compare the accuracy scores, efficiency, and optimal results. Linear Regression is easy to implement and interpret, and efficient to train. Random Forest Classifier handles thousands of input variables without deletion and runs efficiently on large datasets.
+The team used test_train_split to split the data and stored 1.data in X and 2.target in Y. By passing the test_size as 0.25, the team classified 25% of data in test part and 75% in train part. Additionally, random_state is set as 1, which guarantees that the same sequence of random numbers is generated each time the code is ran. Finally, the team printed the shape of train data. 
+Next steps involved creation of StandardScaler, instances_Scaled the data and fitted the model. Once the model generated predictions, the team created data frame with both prediction and actual scores for both models chosen. 
+Linear Regression model generated a R squared value of 61% and the Random Forest Classifier generated a R squared value of 86%, resulting in the Random Forest Classifier as the most accurate and better prediction model.
+
+![https://github.com/sangyoo1021/Covid_Travel_Data/blob/main/PNGs/Lr.png]
+![https://github.com/sangyoo1021/Covid_Travel_Data/blob/main/PNGs/Screen%20Shot%202022-07-03%20at%2010.45.45%20PM.png]
+
+The model could be further enhanced by including ticket pricing, travel limitations, and other external factors.
+
